@@ -2,7 +2,7 @@
 # SQL Database Learning Journey
 
 ## Overview
-This repository documents my progression through SQL database concepts and Microsoft SQL Server fundamentals, including practical applications and architectural design.
+This repository documents my progression through SQL database concepts and Microsoft SQL Server fundamentals, including practical applications and architectural design. it is a part of my journey to learn .Net framwork and angular as a new stack to me after 3 years using MERN stack.
 
 ## Contents
 
